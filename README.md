@@ -33,8 +33,8 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > [Gari app]
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> [figma(https://www.figma.com/design/TDav1FR8606RlUQIVtJ54u/Gari?node-id=0-1&p=f&m=draw)]
